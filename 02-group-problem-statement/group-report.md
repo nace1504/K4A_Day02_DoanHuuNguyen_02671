@@ -8,7 +8,7 @@
 |---:|---|---|---|
 | 1 | Nguyễn Thành Vinh | 2A202602889 | Tổng hợp convergence; workflow và Problem Statement |
 | 2 | Trần Hữu Đức | 2A202602459 | Baseline về tìm tài liệu và candidate báo cáo |
-| 3 | Đinh Văn Bình | Chưa cung cấp trong report | Candidate tra cứu tài liệu; rủi ro hallucination và yêu cầu trích nguồn |
+| 3 | Đinh Văn Bình | 2A202602830 | Candidate tra cứu tài liệu; rủi ro hallucination và yêu cầu trích nguồn |
 | 4 | Doãn Hữu Nguyên | 2A202602671 | Candidate lọc tài liệu dài; metric thời gian và độ hữu ích |
 | 5 | Tô Huy Thông | 2A202602608 | Challenge Rule/Workflow/Agent; metric và phương án non-AI |
 
